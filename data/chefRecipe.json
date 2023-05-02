@@ -1,6 +1,11 @@
 [
     {
         "id": "1aBcDeFg",
+        "chefPhoto": "https://i.ibb.co/Lr95pVf/chef-1.jpg",
+        "chefName": "Chef Zhang",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 200,
+        "numberOfLikes": 500,
         "bio": "The real effort can bring great results – so we often have special dishes. Boring recipes can make you sad, so always try to make some interesting cuisine. A single mistake in my kitchen can create a new dish!",
         "recipe": [
             {
@@ -43,6 +48,11 @@
     },
     {
         "id": "2hIjKlMn",
+        "chefPhoto": "https://i.ibb.co/Lr95pVf/chef-1.jpg",
+        "chefName": "Chef Li",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 300,
+        "numberOfLikes": 800,
         "bio": "The real effort can bring great results – so we often have special dishes. Boring recipes can make you sad, so always try to make some interesting cuisine. A single mistake in my kitchen can create a new dish!",
         "recipe": [
             {
@@ -85,6 +95,11 @@
     },
     {
         "id": "3oPqRsTu",
+        "chefPhoto": "https://i.ibb.co/Lr95pVf/chef-1.jpg",
+        "chefName": "Chef Wang",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 100,
+        "numberOfLikes": 200,
         "bio": "The real effort can bring great results – so we often have special dishes. Boring recipes can make you sad, so always try to make some interesting cuisine. A single mistake in my kitchen can create a new dish!",
         "recipe": [
             {
@@ -127,6 +142,11 @@
     },
     {
         "id": "4vWxYzAb",
+        "chefPhoto": "https://i.ibb.co/Lr95pVf/chef-1.jpg",
+        "chefName": "Chef Zhou",
+        "yearsOfExperience": 18,
+        "numberOfRecipes": 250,
+        "numberOfLikes": 600,
         "bio": "The real effort can bring great results – so we often have special dishes. Boring recipes can make you sad, so always try to make some interesting cuisine. A single mistake in my kitchen can create a new dish!",
         "recipe": [
             {
@@ -169,6 +189,11 @@
     },
     {
         "id": "5cDeFgHi",
+        "chefPhoto": "https://i.ibb.co/Lr95pVf/chef-1.jpg",
+        "chefName": "Chef Zhao",
+        "yearsOfExperience": 22,
+        "numberOfRecipes": 400,
+        "numberOfLikes": 1000,
         "bio": "The real effort can bring great results – so we often have special dishes. Boring recipes can make you sad, so always try to make some interesting cuisine. A single mistake in my kitchen can create a new dish!",
         "recipe": [
             {
@@ -211,6 +236,11 @@
     },
     {
         "id": "6jKlMnOp",
+        "chefPhoto": "https://i.ibb.co/Lr95pVf/chef-1.jpg",
+        "chefName": "Chef Sun",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 150,
+        "numberOfLikes": 300,
         "bio": "The real effort can bring great results – so we often have special dishes. Boring recipes can make you sad, so always try to make some interesting cuisine. A single mistake in my kitchen can create a new dish!",
         "recipe": [
             {
