@@ -8,10 +8,10 @@ const chefRecipe = require('./data/chefRecipe.json')
 app.use(cors())
 
 app.get('/', (req, res) => {
-  res.send('Hello World!')
+    res.send('Hello World!')
 })
 app.get('/chef', (req, res) => {
-  res.send(chef);
+    res.send(chef);
 })
 
 app.get('/chefRecipe/:id', (req, res) => {
@@ -21,5 +21,5 @@ app.get('/chefRecipe/:id', (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`)
+    console.log(`Example app listening on port ${port}`)
 })
