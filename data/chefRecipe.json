@@ -9,7 +9,9 @@
         "bio": "The real effort can bring great results – so we often have special dishes. Boring recipes can make you sad, so always try to make some interesting cuisine. A single mistake in my kitchen can create a new dish!",
         "recipe": [
             {
+                "id": "hy5d7t",
                 "recipeName": "Noodles",
+                "rating": 5,
                 "image": "holo",
                 "ingredients": [
                     "1/2 Tbsp chilli paste",
@@ -21,8 +23,10 @@
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             },
             {
-                "recipeName": "Noodles",
-                "image": "holo",
+                "id": "hy8d7t",
+                "recipeName": "Chicken",
+                "rating": 4.5,
+                "image": "lallu",
                 "ingredients": [
                     "1/2 Tbsp chilli paste",
                     "1/4 cup diced cucumber",
@@ -33,8 +37,10 @@
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             },
             {
-                "recipeName": "Noodles",
-                "image": "holo",
+                "id": "6jud7t",
+                "recipeName": "Pasta",
+                "rating": 3,
+                "image": "ddd",
                 "ingredients": [
                     "1/2 Tbsp chilli paste",
                     "1/4 cup diced cucumber",
@@ -56,7 +62,9 @@
         "bio": "The real effort can bring great results – so we often have special dishes. Boring recipes can make you sad, so always try to make some interesting cuisine. A single mistake in my kitchen can create a new dish!",
         "recipe": [
             {
+                "id": "6jud7t",
                 "recipeName": "Noodles",
+                "rating": 5,
                 "image": "holo",
                 "ingredients": [
                     "1/2 Tbsp chilli paste",
@@ -68,7 +76,9 @@
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             },
             {
+                "id": "dj8d7t",
                 "recipeName": "Noodles",
+                "rating": 5,
                 "image": "holo",
                 "ingredients": [
                     "1/2 Tbsp chilli paste",
@@ -80,7 +90,9 @@
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             },
             {
+                "id": "kg8q8b",
                 "recipeName": "Noodles",
+                "rating": 5,
                 "image": "holo",
                 "ingredients": [
                     "1/2 Tbsp chilli paste",
@@ -103,7 +115,9 @@
         "bio": "The real effort can bring great results – so we often have special dishes. Boring recipes can make you sad, so always try to make some interesting cuisine. A single mistake in my kitchen can create a new dish!",
         "recipe": [
             {
+                "id": "lh8fu1",
                 "recipeName": "Noodles",
+                "rating": 5,
                 "image": "holo",
                 "ingredients": [
                     "1/2 Tbsp chilli paste",
@@ -115,7 +129,9 @@
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             },
             {
+                "id": "je59cy",
                 "recipeName": "Noodles",
+                "rating": 5,
                 "image": "holo",
                 "ingredients": [
                     "1/2 Tbsp chilli paste",
@@ -127,7 +143,9 @@
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             },
             {
+                "id": "nz8t5h",
                 "recipeName": "Noodles",
+                "rating": 5,
                 "image": "holo",
                 "ingredients": [
                     "1/2 Tbsp chilli paste",
@@ -150,7 +168,9 @@
         "bio": "The real effort can bring great results – so we often have special dishes. Boring recipes can make you sad, so always try to make some interesting cuisine. A single mistake in my kitchen can create a new dish!",
         "recipe": [
             {
+                "id": "ka8hu1",
                 "recipeName": "Noodles",
+                "rating": 5,
                 "image": "holo",
                 "ingredients": [
                     "1/2 Tbsp chilli paste",
@@ -162,7 +182,9 @@
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             },
             {
+                "id": "30pcy7",
                 "recipeName": "Noodles",
+                "rating": 5,
                 "image": "holo",
                 "ingredients": [
                     "1/2 Tbsp chilli paste",
@@ -174,7 +196,9 @@
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             },
             {
+                "id": "h9h957",
                 "recipeName": "Noodles",
+                "rating": 5,
                 "image": "holo",
                 "ingredients": [
                     "1/2 Tbsp chilli paste",
@@ -197,7 +221,9 @@
         "bio": "The real effort can bring great results – so we often have special dishes. Boring recipes can make you sad, so always try to make some interesting cuisine. A single mistake in my kitchen can create a new dish!",
         "recipe": [
             {
+                "id": "m8rm6l",
                 "recipeName": "Noodles",
+                "rating": 5,
                 "image": "holo",
                 "ingredients": [
                     "1/2 Tbsp chilli paste",
@@ -209,7 +235,9 @@
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             },
             {
+                "id": "lq2zu6",
                 "recipeName": "Noodles",
+                "rating": 5,
                 "image": "holo",
                 "ingredients": [
                     "1/2 Tbsp chilli paste",
@@ -221,7 +249,9 @@
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             },
             {
+                "id": "925dj4",
                 "recipeName": "Noodles",
+                "rating": 5,
                 "image": "holo",
                 "ingredients": [
                     "1/2 Tbsp chilli paste",
@@ -244,7 +274,9 @@
         "bio": "The real effort can bring great results – so we often have special dishes. Boring recipes can make you sad, so always try to make some interesting cuisine. A single mistake in my kitchen can create a new dish!",
         "recipe": [
             {
+                "id": "ls5u78",
                 "recipeName": "Noodles",
+                "rating": 5,
                 "image": "holo",
                 "ingredients": [
                     "1/2 Tbsp chilli paste",
@@ -256,7 +288,9 @@
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             },
             {
+                "id": "kk66lo",
                 "recipeName": "Noodles",
+                "rating": 5,
                 "image": "holo",
                 "ingredients": [
                     "1/2 Tbsp chilli paste",
@@ -268,7 +302,9 @@
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             },
             {
+                "id": "yw58f8",
                 "recipeName": "Noodles",
+                "rating": 5,
                 "image": "holo",
                 "ingredients": [
                     "1/2 Tbsp chilli paste",
