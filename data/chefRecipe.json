@@ -12,13 +12,13 @@
                 "id": "hy5d7t",
                 "recipeName": "Noodles",
                 "rating": 5,
-                "image": "holo",
+                "image": "https://i.ibb.co/5WQBrT7/noodless.jpg",
                 "ingredients": [
-                    "1/2 Tbsp chilli paste",
-                    "1/4 cup diced cucumber",
-                    "2 lettuce leaves",
-                    "1/4 cup diced raw mango",
-                    "A squeeze of lemon"
+                    "3 tbsp teriyaki sauce",
+                    "300g/11oz pork tenderloin, trimmed of any fat",
+                    "140g medium egg noodle",
+                    "1 tbsp sunflower oil",
+                    "100g cooked prawn, thawed if frozen"
                 ],
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             },
@@ -26,27 +26,27 @@
                 "id": "hy8d7t",
                 "recipeName": "Chicken",
                 "rating": 4.5,
-                "image": "lallu",
+                "image": "https://i.ibb.co/HDKMWBH/chicken.jpg",
                 "ingredients": [
-                    "1/2 Tbsp chilli paste",
-                    "1/4 cup diced cucumber",
-                    "2 lettuce leaves",
-                    "1/4 cup diced raw mango",
-                    "A squeeze of lemon"
+                    "1 tsp paprika",
+                    "½ tsp mixed herbs",
+                    "½ tsp garlic granules (optional)",
+                    "4 chicken thighs, bone in",
+                    "1 tsp olive oil"
                 ],
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             },
             {
                 "id": "6jud7t",
-                "recipeName": "Pasta",
+                "recipeName": "Fried Rice",
                 "rating": 3,
-                "image": "ddd",
+                "image": "https://i.ibb.co/fnqYWmb/fried-rice.jpg",
                 "ingredients": [
-                    "1/2 Tbsp chilli paste",
-                    "1/4 cup diced cucumber",
-                    "2 lettuce leaves",
-                    "1/4 cup diced raw mango",
-                    "A squeeze of lemon"
+                    "3 tbsp. peanut or vegetable oil, divided",
+                    "3 large eggs, beaten to blend",
+                    "2 tbsp. reduced-sodium soy sauce",
+                    "1/2 tsp. white pepper",
+                    "1/3 c. frozen peas"
                 ],
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             }
@@ -54,7 +54,7 @@
     },
     {
         "id": "2hIjKlMn",
-        "chefPhoto": "https://i.ibb.co/Lr95pVf/chef-1.jpg",
+        "chefPhoto": "https://i.ibb.co/LSK96Jf/chef-2.webp",
         "chefName": "Chef Li",
         "yearsOfExperience": 20,
         "numberOfRecipes": 300,
@@ -65,41 +65,41 @@
                 "id": "6jud7t",
                 "recipeName": "Noodles",
                 "rating": 5,
-                "image": "holo",
+                "image": "https://i.ibb.co/5WQBrT7/noodless.jpg",
                 "ingredients": [
-                    "1/2 Tbsp chilli paste",
-                    "1/4 cup diced cucumber",
-                    "2 lettuce leaves",
-                    "1/4 cup diced raw mango",
-                    "A squeeze of lemon"
+                    "3 tbsp teriyaki sauce",
+                    "300g/11oz pork tenderloin, trimmed of any fat",
+                    "140g medium egg noodle",
+                    "1 tbsp sunflower oil",
+                    "100g cooked prawn, thawed if frozen"
                 ],
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             },
             {
                 "id": "dj8d7t",
-                "recipeName": "Noodles",
-                "rating": 5,
-                "image": "holo",
+                "recipeName": "Chicken",
+                "rating": 4.5,
+                "image": "https://i.ibb.co/HDKMWBH/chicken.jpg",
                 "ingredients": [
-                    "1/2 Tbsp chilli paste",
-                    "1/4 cup diced cucumber",
-                    "2 lettuce leaves",
-                    "1/4 cup diced raw mango",
-                    "A squeeze of lemon"
+                    "1 tsp paprika",
+                    "½ tsp mixed herbs",
+                    "½ tsp garlic granules (optional)",
+                    "4 chicken thighs, bone in",
+                    "1 tsp olive oil"
                 ],
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             },
             {
                 "id": "kg8q8b",
-                "recipeName": "Noodles",
-                "rating": 5,
-                "image": "holo",
+                "recipeName": "Fried Rice",
+                "rating": 4.2,
+                "image": "https://i.ibb.co/fnqYWmb/fried-rice.jpg",
                 "ingredients": [
-                    "1/2 Tbsp chilli paste",
-                    "1/4 cup diced cucumber",
-                    "2 lettuce leaves",
-                    "1/4 cup diced raw mango",
-                    "A squeeze of lemon"
+                    "3 tbsp. peanut or vegetable oil, divided",
+                    "3 large eggs, beaten to blend",
+                    "2 tbsp. reduced-sodium soy sauce",
+                    "1/2 tsp. white pepper",
+                    "1/3 c. frozen peas"
                 ],
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             }
@@ -107,7 +107,7 @@
     },
     {
         "id": "3oPqRsTu",
-        "chefPhoto": "https://i.ibb.co/Lr95pVf/chef-1.jpg",
+        "chefPhoto": "https://i.ibb.co/GM5Dqvg/chef-3.jpg",
         "chefName": "Chef Wang",
         "yearsOfExperience": 10,
         "numberOfRecipes": 100,
@@ -118,41 +118,41 @@
                 "id": "lh8fu1",
                 "recipeName": "Noodles",
                 "rating": 5,
-                "image": "holo",
+                "image": "https://i.ibb.co/5WQBrT7/noodless.jpg",
                 "ingredients": [
-                    "1/2 Tbsp chilli paste",
-                    "1/4 cup diced cucumber",
-                    "2 lettuce leaves",
-                    "1/4 cup diced raw mango",
-                    "A squeeze of lemon"
+                    "3 tbsp teriyaki sauce",
+                    "300g/11oz pork tenderloin, trimmed of any fat",
+                    "140g medium egg noodle",
+                    "1 tbsp sunflower oil",
+                    "100g cooked prawn, thawed if frozen"
                 ],
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             },
             {
                 "id": "je59cy",
-                "recipeName": "Noodles",
-                "rating": 5,
-                "image": "holo",
+                "recipeName": "Chicken",
+                "rating": 4.5,
+                "image": "https://i.ibb.co/HDKMWBH/chicken.jpg",
                 "ingredients": [
-                    "1/2 Tbsp chilli paste",
-                    "1/4 cup diced cucumber",
-                    "2 lettuce leaves",
-                    "1/4 cup diced raw mango",
-                    "A squeeze of lemon"
+                    "1 tsp paprika",
+                    "½ tsp mixed herbs",
+                    "½ tsp garlic granules (optional)",
+                    "4 chicken thighs, bone in",
+                    "1 tsp olive oil"
                 ],
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             },
             {
                 "id": "nz8t5h",
-                "recipeName": "Noodles",
-                "rating": 5,
-                "image": "holo",
+                "recipeName": "Fried Rice",
+                "rating": 4.8,
+                "image": "https://i.ibb.co/fnqYWmb/fried-rice.jpg",
                 "ingredients": [
-                    "1/2 Tbsp chilli paste",
-                    "1/4 cup diced cucumber",
-                    "2 lettuce leaves",
-                    "1/4 cup diced raw mango",
-                    "A squeeze of lemon"
+                    "3 tbsp. peanut or vegetable oil, divided",
+                    "3 large eggs, beaten to blend",
+                    "2 tbsp. reduced-sodium soy sauce",
+                    "1/2 tsp. white pepper",
+                    "1/3 c. frozen peas"
                 ],
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             }
@@ -160,7 +160,7 @@
     },
     {
         "id": "4vWxYzAb",
-        "chefPhoto": "https://i.ibb.co/Lr95pVf/chef-1.jpg",
+        "chefPhoto": "https://i.ibb.co/w6XSVJT/chef-4.jpg",
         "chefName": "Chef Zhou",
         "yearsOfExperience": 18,
         "numberOfRecipes": 250,
@@ -171,41 +171,41 @@
                 "id": "ka8hu1",
                 "recipeName": "Noodles",
                 "rating": 5,
-                "image": "holo",
+                "image": "https://i.ibb.co/5WQBrT7/noodless.jpg",
                 "ingredients": [
-                    "1/2 Tbsp chilli paste",
-                    "1/4 cup diced cucumber",
-                    "2 lettuce leaves",
-                    "1/4 cup diced raw mango",
-                    "A squeeze of lemon"
+                    "3 tbsp teriyaki sauce",
+                    "300g/11oz pork tenderloin, trimmed of any fat",
+                    "140g medium egg noodle",
+                    "1 tbsp sunflower oil",
+                    "100g cooked prawn, thawed if frozen"
                 ],
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             },
             {
                 "id": "30pcy7",
-                "recipeName": "Noodles",
+                "recipeName": "Chicken",
                 "rating": 5,
-                "image": "holo",
+                "image": "https://i.ibb.co/HDKMWBH/chicken.jpg",
                 "ingredients": [
-                    "1/2 Tbsp chilli paste",
-                    "1/4 cup diced cucumber",
-                    "2 lettuce leaves",
-                    "1/4 cup diced raw mango",
-                    "A squeeze of lemon"
+                    "1 tsp paprika",
+                    "½ tsp mixed herbs",
+                    "½ tsp garlic granules (optional)",
+                    "4 chicken thighs, bone in",
+                    "1 tsp olive oil"
                 ],
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             },
             {
                 "id": "h9h957",
-                "recipeName": "Noodles",
+                "recipeName": "Fried Rice",
                 "rating": 5,
-                "image": "holo",
+                "image": "https://i.ibb.co/fnqYWmb/fried-rice.jpg",
                 "ingredients": [
-                    "1/2 Tbsp chilli paste",
-                    "1/4 cup diced cucumber",
-                    "2 lettuce leaves",
-                    "1/4 cup diced raw mango",
-                    "A squeeze of lemon"
+                    "3 tbsp. peanut or vegetable oil, divided",
+                    "3 large eggs, beaten to blend",
+                    "2 tbsp. reduced-sodium soy sauce",
+                    "1/2 tsp. white pepper",
+                    "1/3 c. frozen peas"
                 ],
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             }
@@ -213,7 +213,7 @@
     },
     {
         "id": "5cDeFgHi",
-        "chefPhoto": "https://i.ibb.co/Lr95pVf/chef-1.jpg",
+        "chefPhoto": "https://i.ibb.co/qjtVXbH/chef-5.jpg",
         "chefName": "Chef Zhao",
         "yearsOfExperience": 22,
         "numberOfRecipes": 400,
@@ -223,42 +223,42 @@
             {
                 "id": "m8rm6l",
                 "recipeName": "Noodles",
-                "rating": 5,
-                "image": "holo",
+                "rating": 4.9,
+                "image": "https://i.ibb.co/5WQBrT7/noodless.jpg",
                 "ingredients": [
-                    "1/2 Tbsp chilli paste",
-                    "1/4 cup diced cucumber",
-                    "2 lettuce leaves",
-                    "1/4 cup diced raw mango",
-                    "A squeeze of lemon"
+                    "3 tbsp teriyaki sauce",
+                    "300g/11oz pork tenderloin, trimmed of any fat",
+                    "140g medium egg noodle",
+                    "1 tbsp sunflower oil",
+                    "100g cooked prawn, thawed if frozen"
                 ],
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             },
             {
                 "id": "lq2zu6",
-                "recipeName": "Noodles",
-                "rating": 5,
-                "image": "holo",
+                "recipeName": "Chicken",
+                "rating": 4.9,
+                "image": "https://i.ibb.co/HDKMWBH/chicken.jpg",
                 "ingredients": [
-                    "1/2 Tbsp chilli paste",
-                    "1/4 cup diced cucumber",
-                    "2 lettuce leaves",
-                    "1/4 cup diced raw mango",
-                    "A squeeze of lemon"
+                    "1 tsp paprika",
+                    "½ tsp mixed herbs",
+                    "½ tsp garlic granules (optional)",
+                    "4 chicken thighs, bone in",
+                    "1 tsp olive oil"
                 ],
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             },
             {
                 "id": "925dj4",
-                "recipeName": "Noodles",
+                "recipeName": "Fried Rice",
                 "rating": 5,
-                "image": "holo",
+                "image": "https://i.ibb.co/fnqYWmb/fried-rice.jpg",
                 "ingredients": [
-                    "1/2 Tbsp chilli paste",
-                    "1/4 cup diced cucumber",
-                    "2 lettuce leaves",
-                    "1/4 cup diced raw mango",
-                    "A squeeze of lemon"
+                    "3 tbsp. peanut or vegetable oil, divided",
+                    "3 large eggs, beaten to blend",
+                    "2 tbsp. reduced-sodium soy sauce",
+                    "1/2 tsp. white pepper",
+                    "1/3 c. frozen peas"
                 ],
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             }
@@ -266,7 +266,7 @@
     },
     {
         "id": "6jKlMnOp",
-        "chefPhoto": "https://i.ibb.co/Lr95pVf/chef-1.jpg",
+        "chefPhoto": "https://i.ibb.co/zs5gqMs/chef-6.webp",
         "chefName": "Chef Sun",
         "yearsOfExperience": 12,
         "numberOfRecipes": 150,
@@ -277,41 +277,41 @@
                 "id": "ls5u78",
                 "recipeName": "Noodles",
                 "rating": 5,
-                "image": "holo",
+                "image": "https://i.ibb.co/5WQBrT7/noodless.jpg",
                 "ingredients": [
-                    "1/2 Tbsp chilli paste",
-                    "1/4 cup diced cucumber",
-                    "2 lettuce leaves",
-                    "1/4 cup diced raw mango",
-                    "A squeeze of lemon"
+                    "3 tbsp teriyaki sauce",
+                    "300g/11oz pork tenderloin, trimmed of any fat",
+                    "140g medium egg noodle",
+                    "1 tbsp sunflower oil",
+                    "100g cooked prawn, thawed if frozen"
                 ],
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             },
             {
                 "id": "kk66lo",
-                "recipeName": "Noodles",
+                "recipeName": "Chicken",
                 "rating": 5,
-                "image": "holo",
+                "image": "https://i.ibb.co/HDKMWBH/chicken.jpg",
                 "ingredients": [
-                    "1/2 Tbsp chilli paste",
-                    "1/4 cup diced cucumber",
-                    "2 lettuce leaves",
-                    "1/4 cup diced raw mango",
-                    "A squeeze of lemon"
+                    "1 tsp paprika",
+                    "½ tsp mixed herbs",
+                    "½ tsp garlic granules (optional)",
+                    "4 chicken thighs, bone in",
+                    "1 tsp olive oil"
                 ],
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             },
             {
                 "id": "yw58f8",
-                "recipeName": "Noodles",
-                "rating": 5,
-                "image": "holo",
+                "recipeName": "Fried Rice",
+                "rating": 4.5,
+                "image": "https://i.ibb.co/fnqYWmb/fried-rice.jpg",
                 "ingredients": [
-                    "1/2 Tbsp chilli paste",
-                    "1/4 cup diced cucumber",
-                    "2 lettuce leaves",
-                    "1/4 cup diced raw mango",
-                    "A squeeze of lemon"
+                    "3 tbsp. peanut or vegetable oil, divided",
+                    "3 large eggs, beaten to blend",
+                    "2 tbsp. reduced-sodium soy sauce",
+                    "1/2 tsp. white pepper",
+                    "1/3 c. frozen peas"
                 ],
                 "cookingMethod": "The cooking utensils are a wok and wok spatula. Stir-frying is typically done on a gas stove, although an electric stove can be used if preheated to a high heat. Stir-frying typically uses a combination of meat or seafood, vegetables, and tofu. All ingredients are thinly sliced or cubed. The meat or seafood is marinated using soy sauce, salt, and other seasonings."
             }
